@@ -14,3 +14,5 @@ List<string> renkler = new List<string>();
 renkler.Add("Mavi");
 renkler.Add("Kırmızı");
 ```
+
+[www.patika.dev ](https://www.patika.dev/tr)
